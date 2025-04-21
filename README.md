@@ -9,6 +9,7 @@ This system is composed of a Vue front - end, a Flask back - end, and a deep lea
 一例病人数据的处理速度在5min以内。
 ![image](https://github.com/user-attachments/assets/f0820fb3-a1c0-44a2-8fde-15c3e93bd43a)
 ![image](https://github.com/user-attachments/assets/e7eb1bba-7ec1-468d-9754-77d8912c706f)
+![image](https://github.com/user-attachments/assets/f7c7709d-bea8-4836-8209-faa92358a097)
 ![image](https://github.com/user-attachments/assets/15e4b75a-3788-4790-ab2c-700265d6954d)
 ![image](https://github.com/user-attachments/assets/82291670-120b-4433-8689-35884db9a96d)
 ![image](https://github.com/user-attachments/assets/26a5dcee-6cf2-458c-a140-08b6cd3148d2)
